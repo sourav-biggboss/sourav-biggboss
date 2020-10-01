@@ -18,7 +18,7 @@ Hey, I am web developer 🖥️🖥️🖥️ . Build websites . I Do experiment
 - 👯 I’m looking to collaborate on ... Anyone who is passionate in building website
 - 🤔 I’m looking for help with ... A partner
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... souravmaity091@gmail.com
+- 📫 How to reach me: ... souravmaity091@gmail.com , www.tricksblog.000webhostapp.com
 - 😄 Pronouns: ... English , hindi , Bengal
 - ⚡ Fun fact: ... Music
  ;-)
