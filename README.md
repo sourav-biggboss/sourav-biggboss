@@ -11,9 +11,6 @@ Hey, I am web developer . Build websites . I Do experimental thing in here . And
 + CSS
 + MYSQL DB
 
-<!--
-**sourav-biggboss/sourav-biggboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Statues:
 
 - 🔭 I’m currently working on ... building Website
@@ -24,4 +21,4 @@ Hey, I am web developer . Build websites . I Do experimental thing in here . And
 - 📫 How to reach me: ... souravmaity091@gmail.com
 - 😄 Pronouns: ... English , hindi , Bengal
 - ⚡ Fun fact: ... Music
--->
+ ;-)
