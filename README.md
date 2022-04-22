@@ -1,10 +1,10 @@
 ### Hello 👋
 ![alt text](20201004_143458.png)
-# Information : 
+# Information: 
 
 Hey, I am web developer 🖥️🖥️🖥️ . Build websites . I Do experimental thing in here . And I love to make website . My passion is to code hard things . In here you can find all type of poject with PHP just just to my website repository . In my account you can get experimental results thing which I created by PHP just for fun and I promote open source coding. Thankyou
 
-### Skills, Programing language and tools :
+### Skills, Programing language:
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -17,10 +17,10 @@ Hey, I am web developer 🖥️🖥️🖥️ . Build websites . I Do experiment
  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="36" alt="JavaScript" /></a>
 </p>
 
-### Socials
+### Socials:
 
 <p align="left"> <a href="https://www.github.com/sourav-biggboss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-### Badges
+### Badges:
 
 <b>My GitHub Stats</b>
 
