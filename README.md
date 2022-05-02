@@ -34,7 +34,7 @@ Hey, I am web developer 🖥️🖥️🖥️ . Build websites . I Do experiment
 - 👯 I’m looking to collaborate on ... Anyone who is passionate in building website
 - 🤔 I’m looking for help with ... A partner
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... souravmaity091@gmail.com , http://tricksblog.000webhostapp.com, https://stackoverflow.com/users/18915364/sourav-maity, https://g.dev/souravmaity
+- 📫 How to reach me: ... souravmaity091@gmail.com , http://tricksblog.000webhostapp.com, https://stackoverflow.com/users/18915364/sourav-maity, https://g.dev/souravmaity,https://www.linkedin.com/in/sourav-maity-985a01200/
 - 😄 Pronouns: ... English , hindi , Bengal
 - ⚡ Fun fact: ... Music
  ;-)
