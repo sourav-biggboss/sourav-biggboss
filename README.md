@@ -2,7 +2,7 @@
 ![alt text](20201004_143458.png)
 # Information: 
 
-Hey, I am web developer 🖥️🖥️🖥️ . Build websites . I Do experimental thing in here . And I love to make website . My passion is to code hard things . In here you can find all type of poject with PHP just just to my website repository . In my account you can get experimental results thing which I created by PHP just for fun and I promote open source coding. Thankyou
+Hey, I am web developer 🖥️🖥️🖥️ . Build websites . I Do experimental thing in here . And I love to make website . My passion is to code hard things . In here you can find all type of poject with latest technology just to my website repository . In my account you can get experimental results thing which I created just for fun and I promote open source coding. Thankyou
 
 ### Skills, Programing language:
 
