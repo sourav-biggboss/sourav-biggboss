@@ -14,8 +14,14 @@ Hey, I am web developer 🖥️🖥️🖥️ . Build websites . I Do experiment
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="36" alt="JavaScript" /></a>
-</p>
+<a href="https://javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="36" alt="JavaScript" /></a>
+<a href="https://javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="36" alt="TypeScript" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="36" alt="Angular" /></a>
+<a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" height="36" alt="Angular.JS" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="36" alt="Node" /></a>
+
+
+ </p>
 
 ### Socials:
 
@@ -30,7 +36,7 @@ Hey, I am web developer 🖥️🖥️🖥️ . Build websites . I Do experiment
 # Statues:
 
 - 🔭 I’m currently working on ... building Website
-- 🌱 I’m currently learning ... PHP
+- 🌱 I’m currently learning ... Angular
 - 👯 I’m looking to collaborate on ... Anyone who is passionate in building website
 - 🤔 I’m looking for help with ... A partner
 - 💬 Ask me about ... Anything
