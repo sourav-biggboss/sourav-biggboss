@@ -29,9 +29,7 @@ Hey, I am web developer 🖥️🖥️🖥️ . Build websites . I Do experiment
 
 <a href="http://www.github.com/sourav-biggboss"><img src="https://github-readme-stats.vercel.app/api?username=sourav-biggboss&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sourav-biggboss's GitHub stats" /></a>
 
-<a href="http://www.github.com/sourav-biggboss"><img src="https://activity-graph.herokuapp.com/graph?username=sourav-biggboss&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sourav-biggboss&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sourav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sourav-biggboss&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/sourav-biggboss" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-biggboss&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
